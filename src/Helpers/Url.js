@@ -1,0 +1,1 @@
+export const urlBase = 'https://back-end-estudiantes.herokuapp.com/';
