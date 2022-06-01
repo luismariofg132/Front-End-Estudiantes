@@ -19,7 +19,7 @@ const Home = () => {
         accion: ''
     })
 
-    const { nombre, documento, celular, accion } = ctrlEstduiante
+    const { nombre, documento, celular } = ctrlEstduiante
 
     const [modal1, setModal1] = useState(false);
     const handleClose = () => setModal1(false);
